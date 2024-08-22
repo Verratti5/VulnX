@@ -6,8 +6,8 @@ Multi-Scanner Tool is a comprehensive Python-based tool designed to scan and exp
 
 ## **Author Information**
 - **Instagram:** @0xi0m
-- **Telegram:** @Verratti5
-- **Channel:** @bv_rd
+- **Telegram:** @Verratti3
+- **Channel:** @llllIllIIl
 
 ---
 
