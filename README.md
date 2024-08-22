@@ -36,9 +36,7 @@ Multi-Scanner Tool is a comprehensive Python-based tool designed to scan and exp
 2. Open Command Prompt (cmd).
 3. Run the following commands:
    ```bash
-   pip install requests
-   pip install colorama
-    
+   pip install requests    
 
 ### **Linux Installation**
  
